@@ -15,5 +15,5 @@ For signing in differently in the app, you can use two different browser tabs op
 
 ###
 ###
-
+###
 Messages are stored in browser memory so on subsequent refreshes messages will be lost. we could've stored messages on server' DB though, but DB is not in the scenario.
